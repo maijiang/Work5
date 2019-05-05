@@ -88,4 +88,4 @@ MainActivity.java
 
      </LinearLayout>
 结果截图：
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/maijiang/Work5/blob/master/5_1_1.PNG)
